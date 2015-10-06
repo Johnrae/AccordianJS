@@ -1,0 +1,19 @@
+.accordion {
+  width: 500px;
+  border: 1px solid #00C6D8;
+  overflow: hidden;
+  height: 300px;
+  display: block; }
+
+h2 {
+  background-color: #00C6D8;
+  color: white;
+  margin: 0 auto;
+  padding: 10px 5px; }
+
+section {
+  min-height: 50px;
+  overflow: hidden; }
+
+.hidden {
+  height: 50px; }
