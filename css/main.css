@@ -20,7 +20,8 @@ h2 {
   border-top: 1px solid #00B8C8; }
 
 h2:hover {
-  background-color: #00DAEE; }
+  background-color: #00DAEE;
+  cursor: pointer; }
 
 section {
   min-height: 50px;
