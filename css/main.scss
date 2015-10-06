@@ -1,17 +1,23 @@
+body{
+  background-color: #B7DEDF;
+}
+
 .accordion{
+  background-color: white;
   width: 600px;
-  border: 1px solid #00C6D8;
+  border: 1px solid #00B8C8;
   overflow: hidden;
   height: 300px;
   display: block;
   font-family: helvetica;
+  margin: 100px auto;
   }
 
 h2 {
   background-color: #00C6D8;
   color: white;
   margin: 0 auto;
-  padding: 12px 20px;
+  padding: 15px 20px;
   font-weight: 300;
   border-top: 1px solid #00B8C8;
 }
@@ -28,6 +34,7 @@ section {
   transition: height 0.4s ease;
   p{
     padding: 0 30px;
+    color: gray;
   }
 }
 
